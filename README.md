@@ -16,13 +16,13 @@ To install and use the `AuthForm1` component in your project, follow these steps
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/authform1.git
+    git clone https://github.com/your-username/authform.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd authform1
+    cd authform
     ```
 
 3. Install the dependencies:
@@ -39,7 +39,7 @@ To install and use the `AuthForm1` component in your project, follow these steps
 
 ## Usage
 
-To integrate the `AuthForm1` component into your React project, you can import it and use it as follows:
+To integrate the `AuthForm` component into your React project, you can import it and use it as follows:
 
 ```javascript
 import React from 'react';
